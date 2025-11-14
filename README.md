@@ -1,4 +1,4 @@
-# CSC207 - Movie Watchlist project!!!
+Movie Watchlist Project
 
 ## About this Project
 The Movie Watchlist is a group project of 5 members implemented using Java. Its structure closely follows Clean Architecture using many different design principles such as SOLID, Interface Segregation, Dependency Inversion, and Open-closed. The project has the following use cases: sign-up, login, get/add/remove from the watchlist, get/update/remove ratings, search for movies, and get movie info using an API. In addition to the coding aspect, this project showcases the use of Git by creating a repository, making branches, and merging them back into the main branch after review.  Members are required to track changes in files, collaborate with other team members, manage code, provide meaningful and detailed pull requests, and review other members' pull requests. 
